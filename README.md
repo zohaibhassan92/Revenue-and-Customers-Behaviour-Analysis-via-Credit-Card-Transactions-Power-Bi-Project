@@ -25,7 +25,7 @@ The dataset includes customer data and credit card transactions data in CSV form
 The screenshots demonstrate different parts of the project and the Power BI dashboard.
 
 ## Project Video
-Watch the project video on YouTube: [Project Video](https://youtu.be/KKaOwAJjsS4)
+Watch the project video on YouTube:
 [![Project Video](https://img.youtube.com/vi/KKaOwAJjsS4/0.jpg)](https://youtu.be/KKaOwAJjsS4)
 
 ## FeedBack
