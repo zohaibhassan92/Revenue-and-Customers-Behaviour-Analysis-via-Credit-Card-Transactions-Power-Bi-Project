@@ -27,6 +27,8 @@ The screenshots demonstrate different parts of the project and the Power BI dash
 ## Project Video
 [![Project Video](https://img.youtube.com/vi/KKaOwAJjsS4/0.jpg)](https://youtu.be/KKaOwAJjsS4)
 
+![Alt Text](screenshot2.png)
+
 ## FeedBack
 If you have any feedback, suggestions, or questions about these projects, feel free to open an issue or reach out to me directly.
 
